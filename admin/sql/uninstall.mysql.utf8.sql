@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS `#__sched_attendance_records`;
+DROP TABLE IF EXISTS `#__sched_attendance_statuses`;
+DROP TABLE IF EXISTS `#__sched_dates`;
+DROP TABLE IF EXISTS `#__sched_events`;
+DROP TABLE IF EXISTS `#__sched_event_mand_grps`;
+DROP TABLE IF EXISTS `#__sched_event_types`;
+DROP TABLE IF EXISTS `#__sched_locations`;
+DROP TABLE IF EXISTS `#__sched_responses`;
+DROP TABLE IF EXISTS `#__sched_review_statuses`;
+DROP TABLE IF EXISTS `#__sched_rsvp_reasons`;
+DROP TABLE IF EXISTS `#__sched_rsvp_statuses`;
+DROP TABLE IF EXISTS `#__sched_times`;
+DROP TABLE IF EXISTS `#__sched_views`;
